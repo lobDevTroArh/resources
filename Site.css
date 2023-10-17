@@ -3,7 +3,7 @@
 }
 
 div{
-    background-color:red !important;
+    background-color: 'red' !important;
 }
 
 .viewSequenceBtnContainer {
