@@ -2,6 +2,10 @@
     width: 400px;
 }
 
+div{
+    background-color:red !important;
+}
+
 .viewSequenceBtnContainer {
     display: flex;
     justify-content: space-between;
