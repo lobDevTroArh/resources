@@ -1555,7 +1555,7 @@ lob-project-summary .mainTableContainer {
 
 body {
     font-family: 'Poppins', sans-serif !important;
-    width: 100vw;
+    width: 50vw;
     height: 100vh;
     background-color: var(--background1);
     overflow-y: hidden;
