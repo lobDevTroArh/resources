@@ -3,7 +3,7 @@
 }
 
 div{
-    background-color:red;
+    background-color:red !important;
 }
 .viewSequenceBtnContainer {
     display: flex;
